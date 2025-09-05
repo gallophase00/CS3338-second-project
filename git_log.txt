@@ -1,0 +1,30 @@
+commit 0808ed375b35e345402b4ef0be2a5771f9739f42
+Merge: 35bacc3 57bb898
+Author: gallophase00 <untying.outside.1b@icloud.com>
+Date:   Thu Sep 4 17:34:02 2025 -0700
+
+    fixed merge conflict
+
+commit 57bb8982a05c8ef93ccc35916246a0c1e10323b1
+Author: gallophase00 <untying.outside.1b@icloud.com>
+Date:   Thu Sep 4 17:28:49 2025 -0700
+
+    added favorite movie
+
+commit 35bacc359200e38d0d18bb8157ba7ab0ed0337c9
+Author: gallophase00 <untying.outside.1b@icloud.com>
+Date:   Thu Sep 4 17:22:31 2025 -0700
+
+    added favorite food
+
+commit 10865c5e94c5cef5f83cb6bb185f7def7310b45a
+Author: gallophase00 <untying.outside.1b@icloud.com>
+Date:   Thu Sep 4 16:34:13 2025 -0700
+
+    index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
